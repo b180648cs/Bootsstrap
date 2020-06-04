@@ -1,0 +1,30 @@
+.cbox
+{
+    border: 2px solid red;
+    height: 100px;
+}
+.arow
+{   border: 2px fuchsia;
+    
+    height: 50px;
+}
+.adiv
+{
+    border: 10px solid green;
+    background-color: red;
+}
+.bdiv
+{
+    border: 10px solid orange;
+    background-color:wheat;
+}
+.cdiv
+{
+    border: 10px solid palegreen;
+    background-color: gray;
+}
+.ddiv
+{
+    border: 10px solid aquamarine;
+    background-color: firebrick;
+}
